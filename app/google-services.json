@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139200369577",
+    "project_id": "harcamatakip-fc58d",
+    "storage_bucket": "harcamatakip-fc58d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139200369577:android:5676b2bb32f309fa63aab8",
+        "android_client_info": {
+          "package_name": "com.mehmetceken.harcamatakip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9NjehWiAk14KKdbTNLBfOtsco9NiGJmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
